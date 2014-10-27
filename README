@@ -1,0 +1,3 @@
+### postgresql-wal-e-nagios
+Check if the backup wal-e postgres is executed in the last day
+To use in local checks in nagios o check_mk
